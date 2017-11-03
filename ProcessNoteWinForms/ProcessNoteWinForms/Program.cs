@@ -18,7 +18,6 @@ namespace ProcessNoteWinForms
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
 
-            ProcessHandler allProcesses = new ProcessHandler();
         }
     }
 }
